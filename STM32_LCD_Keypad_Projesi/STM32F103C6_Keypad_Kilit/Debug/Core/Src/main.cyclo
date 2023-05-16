@@ -1,0 +1,7 @@
+main.c:71:5:main	1
+main.c:118:6:keypad_tara	23
+main.c:202:6:ekran_guncelle	3
+main.c:252:6:ekran_resetle	1
+main.c:269:6:SystemClock_Config	3
+main.c:309:13:MX_GPIO_Init	1
+main.c:372:6:Error_Handler	1

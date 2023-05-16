@@ -1,0 +1,12 @@
+LCD.c:57:6:Delay	1
+LCD.c:61:6:lcd_delay	1
+LCD.c:66:6:lcd_cmd	9
+LCD.c:111:6:lcd_char_cp	9
+LCD.c:156:6:lcd_out_cp	2
+LCD.c:167:6:lcd_init	1
+LCD.c:184:6:lcd_gotoxy	3
+LCD.c:198:6:lcd_char	1
+LCD.c:204:6:lcd_print	1
+LCD.c:210:6:lcd_clear	1
+LCD.c:216:6:lcd_line1	1
+LCD.c:220:6:lcd_line2	1
